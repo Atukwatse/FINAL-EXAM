@@ -1,0 +1,36 @@
+
+body {
+    background-color: black;
+    color: orangered;
+    font-family: Arial, sans-serif;
+}
+.header {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+img {
+    max-width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+.details {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color:purple;
+}
+.link-box {
+    border: 1px solid purple;
+    padding: 10px;
+    text-align: center;
+    min-height: 50px;
+}
+a{
+    text-decoration: none;
+}
